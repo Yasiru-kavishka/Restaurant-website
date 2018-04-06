@@ -1,0 +1,375 @@
+body {
+	max-width: 100%;
+}
+
+
+.companyname {
+
+	
+	text-align: center;
+	text-shadow: 2px 2px black;
+	border:none;
+	background-repeat: no-repeat;
+	background-image: url('../img/italy1.png');
+	background-size: 1540px auto;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	color: #b3b300;
+	font: bold 100px Edwardian Script ITC ;
+}
+
+
+
+
+
+.buttons1 li{
+	float: left;
+	margin: 0 40px 0 40px;
+
+}
+
+.buttons2 {
+	float: right;
+
+	
+}
+
+.buttons2 li {
+	margin: 0 40px 0 40px ;
+}
+
+
+.buttons {
+	border: none;
+	color: brown;
+}
+
+a {
+	color: #b3b300;
+	font-size: 16px;
+}
+
+nav a.selected, nav a:hover {
+	color: #004d00;
+
+}
+
+table {
+	max-width: 100%;
+	width: 100%;
+}
+
+.box {
+	margin: 30px 35px 50px 43px;
+    border: 1px solid #b3b300;
+    border-style: double;
+    border-width: 3.5px;
+    float: left;
+    width: 300px;
+    padding: 10px;
+}
+
+.box img {
+	width: 250px;
+	height: 200px;
+	padding: 5px;
+	padding-right: 3px;
+}
+
+.desc {
+	padding: 10px;
+	color: #003366;
+}
+
+h4 {
+	font: bold 20px Cambria ;
+	color: #cc0000;
+	text-align: center;
+}
+
+
+footer {
+	text-align: center;
+}
+
+#copyright {
+	color: #b3b300;
+	font: bolder 22px Cambria;
+	text-shadow: 1px 1px black;
+
+
+
+}
+
+#copyright li {
+	list-style: none;
+}
+
+.gallery h2 {
+	color: #b3b300;
+	font: bold 80px Edwardian Script ITC ;
+	text-shadow: 1px 1px black;
+	text-align: center;
+	border-style: dashed;
+	border-left: none;
+	border-right: none;
+
+}
+
+.reserve h2 {
+	color: #b3b300;
+	font: bold 80px Edwardian Script ITC ;
+	text-shadow: 1px 1px black;
+	text-align: center;
+	border-style: dashed;
+	border-left: none;
+	border-right: none;
+
+}
+
+.offer h2 {
+	color: #b3b300;
+	font: bold 80px Edwardian Script ITC ;
+	text-shadow: 1px 1px black;
+	text-align: center;
+	border-style: dashed;
+	border-left: none;
+	border-right: none;
+
+}
+
+.aboutus h2{
+	color: #b3b300;
+	font: bold 80px Edwardian Script ITC ;
+	text-shadow: 1px 1px black;
+	text-align: center;
+	border-style: dashed;
+	border-left: none;
+	border-right: none;
+}
+
+#app img {
+	width: 310px;
+	height: 200px;	
+}
+
+#app h4 {
+	color: #008000;
+	font: bold 50px Edwardian Script ITC ;
+	text-shadow: 2px 2px #e6ffff;
+}
+
+
+
+.app1  {
+	float: left;
+	margin: 0 23px 60px 20px;
+
+}
+
+#piz img {
+	width: 310px;
+	height: 200px;	
+}
+
+#piz h4 {
+	color: #008000;
+	font: bold 50px Edwardian Script ITC ;
+	text-shadow: 2px 2px #e6ffff;
+}
+
+.piz1  {
+	float: left;
+	margin: 0 23px 60px 20px;
+
+}
+
+#sou img {
+	width: 310px;
+	height: 200px;	
+}
+
+#sou h4 {
+	color: #008000;
+	font: bold 50px Edwardian Script ITC ;
+	text-shadow: 2px 2px #e6ffff;
+}
+
+.sou1  {
+	float: left;
+	margin: 0 23px 60px 20px;
+
+}
+
+#pas img {
+	width: 310px;
+	height: 200px;	
+}
+
+#pas h4 {
+	color: #008000;
+	font: bold 50px Edwardian Script ITC ;
+	text-shadow: 2px 2px #e6ffff;
+}
+
+.pas1  {
+	float: left;
+	margin: 0 23px 60px 20px;
+
+}
+
+#sea img {
+	width: 310px;
+	height: 200px;	
+}
+
+#sea h4 {
+	color: #008000;
+	font: bold 50px Edwardian Script ITC ;
+	text-shadow: 2px 2px #e6ffff;
+}
+
+.sea1  {
+	float: left;
+	margin: 0 23px 60px 20px;
+
+}
+
+#mix img {
+	width: 310px;
+	height: 200px;	
+}
+
+#mix h4 {
+	color: #008000;
+	font: bold 50px Edwardian Script ITC ;
+	text-shadow: 2px 2px #e6ffff;
+}
+
+.mix1  {
+	float: left;
+	margin: 0 23px 60px 20px;
+
+}
+
+#sid img {
+	width: 310px;
+	height: 200px;	
+}
+
+#sid h4 {
+	color: #008000;
+	font: bold 50px Edwardian Script ITC ;
+	text-shadow: 2px 2px #e6ffff;
+}
+
+.sid1  {
+	float: left;
+	margin: 0 23px 60px 20px;
+
+}
+
+#des img {
+	width: 310px;
+	height: 200px;	
+}
+
+#des h4 {
+	color: #008000;
+	font: bold 50px Edwardian Script ITC ;
+	text-shadow: 2px 2px #e6ffff;
+}
+
+.des1  {
+	float: left;
+	margin: 0 23px 60px 20px;
+
+}
+
+.thumbnail {
+	border-color: #009900;
+	border-style: double;
+	border-width: 1.5px;
+}
+
+.caption {
+	text-align: center;
+	font: bold 24px Gabriola ;
+	color: #003366;
+}
+
+a p {
+	color: #cc0000;
+}
+
+a:hover p {
+	
+	color: #004080;
+}
+
+
+.gallery li {
+	margin: 0 0 50px 0;
+}
+
+form {
+	width: 40%;
+	margin: 20px 20px 80px 30px;
+	float: left;
+}
+
+.contact {
+	width: 48%;
+	float: right;
+
+}
+
+#contactus h3 {
+	font: bold 40px Gabriola ;
+	margin: 20px 100px 40px 40px;
+	color: #003366;
+}
+
+#tele {
+	margin: 20px 30px 40px 40px;
+	font: bold 28px calibri ;
+	color: #cc0000;
+}
+
+#ourmessage {
+
+	margin: 20px 30px 40px 40px;
+	font: bold 54px Gabriola ;
+	text-align: center;
+	color: #006666;
+}
+
+.reserve {
+	margin: 40px 0;
+	
+	
+}
+
+.reserve h3 {
+	text-align: center;
+	font: bold 48px Gabriola ;
+	color: #660000;
+}
+
+.form-group label {
+	color: #527a7a;
+	font: bold 28px Gabriola ;
+
+}
+
+.form-group button {
+	font: bold 22px Gabriola ;
+	text-align: left;
+	
+	color: red;
+	
+}
+
+button {
+	border: yellow;
+}
